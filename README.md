@@ -1,1 +1,125 @@
-# network-concepts-and-protocols-lab
+ # Network Concepts & Protocols Lab (TAFE Portfolio Project)
+
+This repository documents my practical work for the unit **VU23213 – Utilise basic network concepts and protocols required in cyber security**.  
+It includes theory, protocol analysis, security policy review, IP addressing, binary/hex conversions, and hands‑on Packet Tracer labs.
+
+All work is based on the MidTown IT case study and completed as part of my TAFE Queensland cybersecurity training.
+
+---
+
+## Project Overview
+
+This project demonstrates foundational networking and security concepts used in cyber security, including:
+
+- OSI & TCP/IP communication models  
+- Protocol vulnerabilities (HTTP, FTP, SQL injection)  
+- Network security vs cyber security  
+- Business impacts of breaches  
+- Security policy review & recommendations  
+- BYOD risks and privacy considerations  
+- IPv4/IPv6 addressing  
+- Binary & hexadecimal conversions  
+- Network devices & testing tools  
+- Investigation of current cyber attacks  
+- Packet Tracer network builds and testing  
+
+This project forms part of my practical learning pathway toward SOC analysis, network fundamentals, and secure network design.
+
+---
+
+## Lab Environment & Tools
+
+- **Cisco Packet Tracer** (network design & simulation)  
+- **Wireshark** (packet analysis – where applicable)  
+- **Windows & Linux environments**  
+- **TAFE MidTown IT scenario documentation**  
+- **Microsoft Word → converted to Markdown for GitHub**  
+
+---
+
+## Repository Structure
+
+- [report/](report/)  
+  - `network_concepts_report.md` — full written assessment converted to Markdown  
+
+- [packet-tracer/](packet-tracer/)  
+  - `lab1_new_building_network.pkt`  
+  - `lab2_file_sharing.pkt`  
+  - `screenshots/` — Packet Tracer topology images  
+
+- [notes/](notes/)  
+  - `osi_model.md`  
+  - `tcp_ip_model.md`  
+  - `protocol_vulnerabilities.md`  
+  - `ip_addressing_and_conversions.md`  
+  - `security_policy_review.md`  
+  - `network_devices_and_tools.md`  
+  - `cyber_attacks_research.md`  
+
+- [checklists/](checklists/)  
+  - `network_security_checklist.md`  
+
+- [images/](images/)  
+  - Packet Tracer screenshots  
+  - Diagrams and tables  
+
+- [README.md](README.md)
+
+---
+
+## Key Learning Outcomes
+
+- Understand and explain OSI & TCP/IP models  
+- Identify threats, risks, and vulnerabilities  
+- Analyse insecure protocols (HTTP, FTP, SQLi)  
+- Perform IP addressing, subnetting, binary & hex conversions  
+- Review and improve organisational security policies  
+- Evaluate BYOD risks and privacy impacts  
+- Build and test networks using Packet Tracer  
+- Investigate real‑world cyber attacks  
+- Document findings professionally  
+
+---
+
+## Security Concepts Covered
+
+- Confidentiality, Integrity, Availability (CIA)  
+- Encryption (TLS/HTTPS)  
+- Access control & auditing  
+- Network segmentation  
+- Device hardening  
+- Secure protocol usage  
+- Policy compliance  
+- Zero‑trust considerations  
+
+---
+
+## Packet Tracer Labs
+
+### **LAB 1 — New Building Network Solution**
+- Designed a functional network for a new building  
+- Configured switches, routers, addressing, and connectivity  
+- Verified communication using ping and simulation mode  
+
+### **LAB 2 — File Sharing Testing**
+- Implemented SMB file sharing  
+- Tested access permissions  
+- Validated connectivity and security controls  
+
+Packet Tracer files and screenshots are available in the `/packet-tracer` folder.
+
+---
+
+## ✔ Network Security Checklist
+
+A practical checklist for reviewing network security controls is available here:  
+➡️ [network_security_checklist.md](checklists/network_security_checklist.md)
+
+---
+
+## Contact
+
+If you’d like to discuss networking, Packet Tracer labs, or cyber security learning:
+
+- **GitHub:** https://github.com/AlAbbas-cloud  
+- **LinkedIn:** https://www.linkedin.com/in/ali-abbas-895bb8268  
