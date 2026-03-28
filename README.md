@@ -131,6 +131,45 @@ A functional SMB file‑sharing environment, including:
 
 Both labs demonstrate practical networking skills, including device configuration, protocol testing, and secure network design.
 
+---
+
+## 🖼 Screenshots
+
+A collection of Packet Tracer topology images and lab outputs used throughout this project.  
+These visuals help demonstrate the network design, configuration steps, and testing results.
+
+All screenshots are stored in:  
+➡️ `/packet-tracer/screenshots/`
+
+---
+
+### 🔹 LAB 1 — New Building Network  
+Includes:
+
+- Full network topology  
+- Router and switch connections  
+- IP addressing verification  
+- Successful ping tests  
+- Simulation mode packet flow  
+
+📁 Folder: `/packet-tracer/screenshots/lab1/`
+
+---
+
+### 🔹 LAB 2 — File Sharing (SMB)  
+Includes:
+
+- Server SMB configuration  
+- Shared folder setup  
+- User permission settings  
+- PC access to shared directory  
+- Connectivity and authentication tests  
+
+📁 Folder: `/packet-tracer/screenshots/lab2/`
+
+---
+
+Screenshots support the documentation by showing the exact Packet Tracer environment used during the labs.
 
 ---
 
