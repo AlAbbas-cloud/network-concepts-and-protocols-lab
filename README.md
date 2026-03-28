@@ -94,19 +94,43 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
 
 ---
 
-## Packet Tracer Labs
+## 🧪 Packet Tracer Labs
 
-### **LAB 1 — New Building Network Solution**
-- Designed a functional network for a new building  
-- Configured switches, routers, addressing, and connectivity  
-- Verified communication using ping and simulation mode  
+This project includes two hands‑on Packet Tracer labs completed as part of the MidTown IT case study.  
+Each lab includes a `.pkt` file, screenshots, and full documentation.
 
-### **LAB 2 — File Sharing Testing**
-- Implemented SMB file sharing  
-- Tested access permissions  
-- Validated connectivity and security controls  
+---
 
-Packet Tracer files and screenshots are available in the `/packet-tracer` folder.
+### 🔹 LAB 1 — New Building Network Solution  
+A complete network design for a new building, including:
+
+- Router and switch configuration  
+- IPv4 addressing  
+- Device connectivity  
+- Ping and simulation mode testing  
+
+📄 **Documentation:** [lab1_new_building_network.md](packet-tracer/lab1_new_building_network.md)  
+📁 **Packet Tracer File:** `lab1_new_building_network.pkt`  
+🖼 **Screenshots:** `/packet-tracer/screenshots/`
+
+---
+
+### 🔹 LAB 2 — File Sharing Testing (SMB)  
+A functional SMB file‑sharing environment, including:
+
+- Server configuration  
+- Shared folder setup  
+- User permissions  
+- Connectivity and access testing  
+
+📄 **Documentation:** [lab2_file_sharing.md](packet-tracer/lab2_file_sharing.md)  
+📁 **Packet Tracer File:** `lab2_file_sharing.pkt`  
+🖼 **Screenshots:** `/packet-tracer/screenshots/`
+
+---
+
+Both labs demonstrate practical networking skills, including device configuration, protocol testing, and secure network design.
+
 
 ---
 
