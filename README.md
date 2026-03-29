@@ -138,7 +138,7 @@ All screenshots are stored in:
 
 ---
 
-### LAB 1 — New Building Network  
+### LAB 1 - New Building Network  
 Includes:
 
 - Full network topology  
@@ -151,7 +151,7 @@ Includes:
 
 ---
 
-### LAB 2 — File Sharing (SMB)  
+### LAB 2 - File Sharing (SMB)  
 Includes:
 
 - Server SMB configuration  
