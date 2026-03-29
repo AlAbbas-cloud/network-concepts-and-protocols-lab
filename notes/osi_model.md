@@ -1,4 +1,4 @@
-# OSI Model — Notes
+# OSI Model - Notes
 
 The OSI (Open Systems Interconnection) model explains how data moves through a network using **seven layers**, each with a specific job.
 
