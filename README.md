@@ -109,7 +109,7 @@ A complete network design for a new building, including:
 - Ping and simulation mode testing  
 
 **Documentation:** [lab1_new_building_network.md](packet-tracer/lab1_new_building_network.md)  
-**Screenshots:** `/packet-tracer`
+**Screenshots:** `/images/lab-1`
 
 ---
 
@@ -122,7 +122,7 @@ A functional SMB file‑sharing environment, including:
 - Connectivity and access testing  
 
 **Documentation:** [lab2_file_sharing.md](packet-tracer/lab2_file_sharing.md)    
-**Screenshots:** `/packet-tracer`
+**Screenshots:** `/images/lab-2`
 
 ---
 
@@ -136,7 +136,7 @@ A collection of Packet Tracer topology images and lab outputs used throughout th
 These visuals help demonstrate the network design, configuration steps, and testing results.
 
 All screenshots are stored in:  
-➡️ `/packet-tracer`
+➡️ `/images/`
 
 ---
 
@@ -149,7 +149,7 @@ Includes:
 - Successful ping tests  
 - Simulation mode packet flow  
 
-📁 Folder: `/packet-tracer`
+📁 Folder: [lab1](/images/lab-1)
 
 ---
 
