@@ -84,6 +84,9 @@ Basic router setup included:
 - Ensured ports were active  
 - Connected PCs to switch ports  
 
+![AP Config](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/Wireless%20AP%20Config%20B1%26B2.png)
+**Figure 6: East and West Buildings Access Point Configurations used in LAB 1.**
+
 ---
 
 ## Testing & Verification
