@@ -1,11 +1,11 @@
-# ✔ Network Security Checklist
+# Network Security Checklist
 
 This checklist summarises essential controls for securing networks, devices, and protocols.  
 It is based on the MidTown IT case study and the requirements of VU23213 – Utilise basic network concepts and protocols required in cyber security.
 
 ---
 
-## 🔐 1. Secure Protocols
+## 1. Secure Protocols
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -16,7 +16,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## 🧱 2. Network Devices & Configuration
+## 2. Network Devices & Configuration
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -28,7 +28,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## 👥 3. Access Control & Authentication
+## 3. Access Control & Authentication
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -39,7 +39,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## 🛡️ 4. Data Protection
+## 4. Data Protection
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -50,7 +50,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## 📡 5. Network Monitoring & Detection
+## 5. Network Monitoring & Detection
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -61,7 +61,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## 🧪 6. Testing & Validation
+## 6. Testing & Validation
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -72,7 +72,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## 🧠 7. Policy & Compliance
+## 7. Policy & Compliance
 
 | Requirement | Purpose | Notes |
 |------------|----------|-------|
@@ -83,7 +83,7 @@ It is based on the MidTown IT case study and the requirements of VU23213 – Uti
 
 ---
 
-## ✔ Summary
+## Summary
 
 This checklist supports secure network design and operation by ensuring:
 
