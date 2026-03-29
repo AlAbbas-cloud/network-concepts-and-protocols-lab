@@ -136,7 +136,7 @@ A collection of Packet Tracer topology images and lab outputs used throughout th
 These visuals help demonstrate the network design, configuration steps, and testing results.
 
 All screenshots are stored in:  
-➡️ `/images/`
+➡️ [screenshots](/images/)
 
 ---
 
@@ -162,7 +162,7 @@ Includes:
 - PC access to shared directory  
 - Connectivity and authentication tests  
 
-📁 Folder: `/packet-tracer`
+📁 Folder: [lab2](/images/lab-2)
 
 ---
 
