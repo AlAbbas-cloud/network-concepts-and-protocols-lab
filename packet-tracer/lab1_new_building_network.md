@@ -76,6 +76,9 @@ Basic router setup included:
 - Assigning IP addresses  
 - Verifying interface status  
 
+![Router Config E+W buildings](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/Router%20config%20East%20%26%20West%20buildings%20(1)%20.png)
+**Figure 5: East and West Buildings Router Configurations used in LAB 1.**
+
 ### **4. Switch Configuration**
 - Enabled VLAN 1 (default)  
 - Ensured ports were active  
