@@ -43,14 +43,18 @@ A screenshot of the topology:
 ![East Building Rack](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/East%20Building%20rack.png)
 
 **Figure 2: East building Rack used in LAB 1.**
+
 ---
+
 ![West Building layout](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/West%20building%20%20layout.png)
 **Figure 3: West building network layout used in LAB 1.**
 
 ![West Building Rack](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/West%20building%20rack.png)
 
 **Figure 4: West building Rack used in LAB 1.**
+
 ---
+
 ### **2. IP Addressing**
 Each PC was assigned:
 
