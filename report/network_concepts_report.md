@@ -1,4 +1,4 @@
-# 🛡️ Network Concepts & Protocols Report  
+# Network Concepts & Protocols Report  
 *VU23213 – Utilise basic network concepts and protocols required in cyber security*
 
 This report documents my work for the MidTown IT case study, covering network communication models, protocol vulnerabilities, security policy review, addressing schemes, and Packet Tracer lab activities.
@@ -9,7 +9,7 @@ All work was completed as part of my TAFE Queensland cybersecurity training.
 
 ## 1. Network Security & Communication Models
 
-### 🔓 Unsecure HTTP
+### Unsecure HTTP
 HTTP sends data in **plain text**, making it vulnerable to interception.
 
 **Example:**  
@@ -17,7 +17,7 @@ An attacker can perform a **Man‑in‑the‑Middle (MitM)** attack and read log
 
 ---
 
-### 📁 FTP Vulnerabilities
+### FTP Vulnerabilities
 FTP does not encrypt data, making it easy for attackers to capture:
 
 - usernames  
@@ -31,7 +31,7 @@ It is also vulnerable to:
 
 ---
 
-### 💉 SQL Injection
+### SQL Injection
 SQL injection occurs when attackers insert malicious SQL into input fields.
 
 **Example:**  
@@ -39,7 +39,7 @@ Entering `' OR '1'='1` in a login form can bypass authentication and access the 
 
 ---
 
-### 🔐 Network Security vs Cyber Security
+### Network Security vs Cyber Security
 
 | Network Security | Cyber Security |
 |------------------|----------------|
@@ -49,7 +49,7 @@ Entering `' OR '1'='1` in a login form can bypass authentication and access the 
 
 ---
 
-### 🏢 Business Implications of Cyber Breaches
+### Business Implications of Cyber Breaches
 
 #### **1. Financial Loss**
 Breaches lead to legal costs, fines, and recovery expenses.  
@@ -69,7 +69,7 @@ Downtime, cancelled services, and productivity loss.
 
 The OSI model explains how data moves through a network in **seven layers**.
 
-### 📘 OSI Model Table
+### OSI Model Table
 
 | Layer | Function | Protocols |
 |-------|----------|-----------|
@@ -85,7 +85,7 @@ The OSI model explains how data moves through a network in **seven layers**.
 
 ## 3. Security Policy Review
 
-### 📝 Visitor & External Personnel Access
+### Visitor & External Personnel Access
 The current policy **does not mention** visitor or contractor access.
 
 **Why this matters:**
@@ -97,7 +97,7 @@ The current policy **does not mention** visitor or contractor access.
 
 ---
 
-### 📱 Social Media Usage Policy Improvements
+### Social Media Usage Policy Improvements
 
 - Define “professional and responsible use”  
 - Provide training and awareness  
@@ -110,7 +110,7 @@ The current policy **does not mention** visitor or contractor access.
 
 ---
 
-### 🔒 Access to Official‑Sensitive Data
+### Access to Official‑Sensitive Data
 
 **People with access:**
 
@@ -135,7 +135,7 @@ The current policy **does not mention** visitor or contractor access.
 
 ---
 
-### 🔐 Privacy Impact Statement Review
+### Privacy Impact Statement Review
 
 **Suggested improvements:**
 
@@ -148,7 +148,7 @@ The current policy **does not mention** visitor or contractor access.
 
 ---
 
-### 📱 BYOD (Bring Your Own Device) Review
+### BYOD (Bring Your Own Device) Review
 
 **Risks:**
 
@@ -179,7 +179,7 @@ The current policy **does not mention** visitor or contractor access.
 
 ## 4. TCP/IP, Addressing & Conversions
 
-### 🌐 TCP/IP Model
+### TCP/IP Model
 
 | Layer | Description | Protocols |
 |-------|-------------|-----------|
@@ -190,7 +190,7 @@ The current policy **does not mention** visitor or contractor access.
 
 ---
 
-### 🔐 How TLS/HTTPS Provide Security
+### How TLS/HTTPS Provide Security
 
 **Confidentiality:**  
 Encrypts data so attackers cannot read it.
@@ -203,7 +203,7 @@ Protects against MitM and DoS attacks.
 
 ---
 
-### 🔄 OSI vs TCP/IP
+### OSI vs TCP/IP
 
 **Differences:**
 
@@ -217,7 +217,7 @@ Protects against MitM and DoS attacks.
 
 ---
 
-### 🌍 IPv4 vs IPv6 Addressing
+### IPv4 vs IPv6 Addressing
 
 **IPv4:**  
 - 32‑bit  
@@ -229,7 +229,7 @@ Protects against MitM and DoS attacks.
 
 ---
 
-### 🔢 Binary & Hexadecimal
+### Binary & Hexadecimal
 
 **Binary:** Base‑2  
 **Hex:** Base‑16  
@@ -256,21 +256,21 @@ Protects against MitM and DoS attacks.
 
 ## 6. Packet Tracer Labs
 
-### 🏗 LAB 1 — New Building Network
+### LAB 1 — New Building Network
 - Designed a functional network  
 - Configured addressing, routing, switching  
 - Verified connectivity  
 
-### 📁 LAB 2 — File Sharing Testing
+### LAB 2 — File Sharing Testing
 - Implemented SMB file sharing  
 - Tested permissions  
 - Validated communication  
 
-Screenshots and `.pkt` files are in the `/packet-tracer` folder.
+Screenshots files are in the `/packet-tracer` folder.
 
 ---
 
-## ✔ Summary & Recommendations
+## Summary & Recommendations
 
 - Use secure protocols (HTTPS, SFTP, SSH)  
 - Apply strong access controls  
@@ -282,7 +282,7 @@ Screenshots and `.pkt` files are in the `/packet-tracer` folder.
 
 ---
 
-## 📚 References
+## References
 
 - TAFE Queensland MidTown IT Scenario  
 - TAFE Security Policy Documentation  
