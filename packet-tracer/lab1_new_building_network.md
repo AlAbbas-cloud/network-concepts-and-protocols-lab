@@ -25,7 +25,9 @@ The topology includes:
 - Server (optional depending on scenario)  
 - Copper straight‑through and crossover cables  
 
-A screenshot of the topology is available in `/packet-tracer/screenshots/`.
+A screenshot of the topology:
+
+![Logical network diagram](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/logical%20network%20diagram.png)
 
 ---
 
