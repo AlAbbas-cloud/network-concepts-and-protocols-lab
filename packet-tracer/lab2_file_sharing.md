@@ -62,6 +62,9 @@ On each PC:
 3. Logged in with assigned credentials  
 4. Verified access to shared folder  
 
+![Access to shared folder](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-2/Test%20to%20ensure%20your%20other%20virtual%20test%20machine%20can%20access%20the%20shared%20folder%20and%20copy%20the%20test%20file%20to%20its%20local%20desktop..png)
+**Figure 5: Test machine can access the shared folder and copy the test file.** 
+
 ---
 
 ## Testing & Verification
