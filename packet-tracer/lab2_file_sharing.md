@@ -1,4 +1,4 @@
-# LAB 2 — File Sharing Testing (SMB)
+# LAB 2 - File Sharing Testing (SMB)
 
 This lab demonstrates how to configure and test file sharing using SMB in a controlled Packet Tracer environment.
 
@@ -43,7 +43,7 @@ The topology includes:
 **Figure 3: Create a shared folder to be accessed over the network.**
 
 ![Read/Write](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-2/Configure%20share%20permissions%20.png)
-**Figure 3: Configure share permissions so everyone has read/write access to the folder.**
+**Figure 4: Configure share permissions so everyone has read/write access to the folder.**
 
 
 ### **2. PC Configuration**
