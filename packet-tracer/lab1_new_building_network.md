@@ -1,11 +1,11 @@
-# 🏗 LAB 1 — New Building Network Solution
+# LAB 1 — New Building Network Solution
 
 This lab demonstrates the design and configuration of a functional network for a new building at MidTown IT.  
 The goal was to create a working network using Cisco Packet Tracer, configure addressing, and verify connectivity.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design a new building network topology  
 - Configure routers, switches, and end devices  
@@ -15,7 +15,7 @@ The goal was to create a working network using Cisco Packet Tracer, configure ad
 
 ---
 
-## 🧱 Network Topology
+## Network Topology
 
 The topology includes:
 
@@ -29,7 +29,7 @@ A screenshot of the topology is available in `/packet-tracer/screenshots/`.
 
 ---
 
-## 🔧 Configuration Steps
+## Configuration Steps
 
 ### **1. Device Placement**
 - Added router, switches, and PCs to the workspace  
@@ -63,7 +63,7 @@ Basic router setup included:
 
 ---
 
-## 🧪 Testing & Verification
+## Testing & Verification
 
 ### **Ping Tests**
 - PC1 → PC2  
@@ -79,7 +79,7 @@ All tests were successful.
 
 ---
 
-## ✔ Results
+## Results
 
 The new building network was successfully designed and configured.  
 All devices communicated correctly, and the topology met the MidTown IT requirements.
