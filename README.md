@@ -43,10 +43,9 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
   - `network_concepts_report.md` - full written assessment converted to Markdown  
 
 - [packet-tracer/](packet-tracer/)  
-  - `lab1_new_building_network.pkt`  
-  - `lab2_file_sharing.pkt`  
-  - `screenshots/` — Packet Tracer topology images  
-
+  - `lab1_new_building_network.md`
+  - `lab2_file_sharing.md`  
+  
 - [notes/](notes/)  
   - `osi_model.md`  
   - `tcp_ip_model.md`  
@@ -60,8 +59,6 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
   - `network_security_checklist.md`  
 
 - [images/](images/)  
-  - Packet Tracer screenshots  
-  - Diagrams and tables  
 
 - [README.md](README.md)
 
@@ -101,7 +98,7 @@ Each lab includes a `.pkt` file, screenshots, and full documentation.
 
 ---
 
-### LAB 1 — New Building Network Solution  
+### LAB 1 - New Building Network Solution  
 A complete network design for a new building, including:
 
 - Router and switch configuration  
@@ -114,7 +111,7 @@ A complete network design for a new building, including:
 
 ---
 
-### LAB 2 — File Sharing Testing (SMB)  
+### LAB 2 - File Sharing Testing (SMB)  
 A functional SMB file‑sharing environment, including:
 
 - Server configuration  
