@@ -1,4 +1,4 @@
-# Cyber Attacks Research — Notes
+# Cyber Attacks Research - Notes
 
 This file summarises major cyber attacks relevant to the assignment.
 
