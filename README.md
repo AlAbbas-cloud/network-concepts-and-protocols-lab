@@ -96,7 +96,7 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
 ## Packet Tracer Labs
 
 This project includes two hands‑on Packet Tracer labs completed as part of the MidTown IT case study.  
-Each lab includes a `.pkt` file, screenshots, and full documentation.
+Each lab includes a `.md` file, screenshots, and full documentation.
 
 ---
 
@@ -136,7 +136,7 @@ A collection of Packet Tracer topology images and lab outputs used throughout th
 These visuals help demonstrate the network design, configuration steps, and testing results.
 
 All screenshots are stored in:  
-➡️ [screenshots](/images/)
+➡️ [Screenshots](/images/)
 
 ---
 
@@ -149,7 +149,7 @@ Includes:
 - Successful ping tests  
 - Simulation mode packet flow  
 
-📁 Folder: [lab1](/images/lab-1)
+📁 Folder: [Lab-1](/images/lab-1)
 
 ---
 
@@ -162,7 +162,7 @@ Includes:
 - PC access to shared directory  
 - Connectivity and authentication tests  
 
-📁 Folder: [lab2](/images/lab-2)
+📁 Folder: [Lab-2](/images/lab-2)
 
 ---
 
