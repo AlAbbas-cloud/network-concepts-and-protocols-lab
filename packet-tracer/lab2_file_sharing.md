@@ -80,6 +80,9 @@ On each PC:
 
 All tests were successful.
 
+![Test](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-2/Testing%20connectivity%20between%20virtual%20machines%20.png)
+**Figure 5: Testing connectivity between virtual machines.**
+
 ---
 
 ## Results
