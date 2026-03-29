@@ -23,7 +23,8 @@ The topology includes:
 - 2 × PCs  
 - Copper straight‑through cables  
 
-A screenshot of the topology is available in `/packet-tracer/screenshots/`.
+![Logical Network Diagram](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-1/logical%20network%20diagram.png)
+**Figure 1: Network Topology used in LAB 2.**
 
 ---
 
@@ -34,6 +35,16 @@ A screenshot of the topology is available in `/packet-tracer/screenshots/`.
 - Created shared folder (e.g., `SharedDocs`)  
 - Added user accounts  
 - Assigned read/write permissions  
+
+![SMB](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-2/Ensuring%20SMBv2-3%20is%20enabled%20via%20PowerShell%20.png)
+**Figure 2: Ensuring SMBv2/3 is enabled via PowerShell.**
+
+![Shared folder](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-2/Create%20a%20shared%20folder%20to%20be%20accessed%20over%20the%20network.png)
+**Figure 3: Create a shared folder to be accessed over the network.**
+
+![Read/Write](https://raw.githubusercontent.com/AlAbbas-cloud/network-concepts-and-protocols-lab/refs/heads/main/images/lab-2/Configure%20share%20permissions%20.png)
+**Figure 3: Configure share permissions so everyone has read/write access to the folder.**
+
 
 ### **2. PC Configuration**
 Each PC was configured with:
