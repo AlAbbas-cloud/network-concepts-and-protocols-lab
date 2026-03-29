@@ -59,8 +59,8 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
   - `network_security_checklist.md`  
 
 - [images/](images/)  
-  - `lab-1`
-  - `lab-2`
+  - `lab-1/`
+  - `lab-2/`
 
 - [README.md](README.md)
 
