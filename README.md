@@ -94,14 +94,14 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
 
 ---
 
-## 🧪 Packet Tracer Labs
+## Packet Tracer Labs
 
 This project includes two hands‑on Packet Tracer labs completed as part of the MidTown IT case study.  
 Each lab includes a `.pkt` file, screenshots, and full documentation.
 
 ---
 
-### 🔹 LAB 1 — New Building Network Solution  
+### LAB 1 — New Building Network Solution  
 A complete network design for a new building, including:
 
 - Router and switch configuration  
@@ -109,13 +109,13 @@ A complete network design for a new building, including:
 - Device connectivity  
 - Ping and simulation mode testing  
 
-📄 **Documentation:** [lab1_new_building_network.md](packet-tracer/lab1_new_building_network.md)  
-📁 **Packet Tracer File:** `lab1_new_building_network.pkt`  
-🖼 **Screenshots:** `/packet-tracer/screenshots/`
+**Documentation:** [lab1_new_building_network.md](packet-tracer/lab1_new_building_network.md)  
+**Packet Tracer File:** `lab1_new_building_network.pkt`  
+**Screenshots:** `/packet-tracer/screenshots/`
 
 ---
 
-### 🔹 LAB 2 — File Sharing Testing (SMB)  
+### LAB 2 — File Sharing Testing (SMB)  
 A functional SMB file‑sharing environment, including:
 
 - Server configuration  
@@ -123,9 +123,9 @@ A functional SMB file‑sharing environment, including:
 - User permissions  
 - Connectivity and access testing  
 
-📄 **Documentation:** [lab2_file_sharing.md](packet-tracer/lab2_file_sharing.md)  
-📁 **Packet Tracer File:** `lab2_file_sharing.pkt`  
-🖼 **Screenshots:** `/packet-tracer/screenshots/`
+**Documentation:** [lab2_file_sharing.md](packet-tracer/lab2_file_sharing.md)  
+**Packet Tracer File:** `lab2_file_sharing.pkt`  
+**Screenshots:** `/packet-tracer/screenshots/`
 
 ---
 
@@ -133,7 +133,7 @@ Both labs demonstrate practical networking skills, including device configuratio
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
 A collection of Packet Tracer topology images and lab outputs used throughout this project.  
 These visuals help demonstrate the network design, configuration steps, and testing results.
@@ -143,7 +143,7 @@ All screenshots are stored in:
 
 ---
 
-### 🔹 LAB 1 — New Building Network  
+### LAB 1 — New Building Network  
 Includes:
 
 - Full network topology  
@@ -156,7 +156,7 @@ Includes:
 
 ---
 
-### 🔹 LAB 2 — File Sharing (SMB)  
+### LAB 2 — File Sharing (SMB)  
 Includes:
 
 - Server SMB configuration  
@@ -173,7 +173,7 @@ Screenshots support the documentation by showing the exact Packet Tracer environ
 
 ---
 
-## ✔ Network Security Checklist
+## Network Security Checklist
 
 A practical checklist for reviewing network security controls is available here:  
 ➡️ [network_security_checklist.md](checklists/network_security_checklist.md)
