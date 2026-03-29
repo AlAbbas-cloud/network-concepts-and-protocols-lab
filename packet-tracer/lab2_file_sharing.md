@@ -1,10 +1,10 @@
-# 📁 LAB 2 — File Sharing Testing (SMB)
+# LAB 2 — File Sharing Testing (SMB)
 
 This lab demonstrates how to configure and test file sharing using SMB in a controlled Packet Tracer environment.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Configure a server for SMB file sharing  
 - Create shared folders  
@@ -14,7 +14,7 @@ This lab demonstrates how to configure and test file sharing using SMB in a cont
 
 ---
 
-## 🧱 Network Topology
+## Network Topology
 
 The topology includes:
 
@@ -27,7 +27,7 @@ A screenshot of the topology is available in `/packet-tracer/screenshots/`.
 
 ---
 
-## 🔧 Configuration Steps
+## Configuration Steps
 
 ### **1. Server Setup**
 - Enabled SMB service  
@@ -53,7 +53,7 @@ On each PC:
 
 ---
 
-## 🧪 Testing & Verification
+## Testing & Verification
 
 ### **Access Tests**
 - PC1 successfully accessed shared folder  
@@ -71,7 +71,7 @@ All tests were successful.
 
 ---
 
-## ✔ Results
+## Results
 
 The SMB file sharing environment was successfully configured.  
 Users were able to access shared resources securely, and permissions worked as expected.
