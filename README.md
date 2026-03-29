@@ -40,7 +40,7 @@ This project forms part of my practical learning pathway toward SOC analysis, ne
 ## Repository Structure
 
 - [report/](report/)  
-  - `network_concepts_report.md` — full written assessment converted to Markdown  
+  - `network_concepts_report.md` - full written assessment converted to Markdown  
 
 - [packet-tracer/](packet-tracer/)  
   - `lab1_new_building_network.pkt`  
@@ -110,8 +110,7 @@ A complete network design for a new building, including:
 - Ping and simulation mode testing  
 
 **Documentation:** [lab1_new_building_network.md](packet-tracer/lab1_new_building_network.md)  
-**Packet Tracer File:** `lab1_new_building_network.pkt`  
-**Screenshots:** `/packet-tracer/screenshots/`
+**Screenshots:** `/packet-tracer`
 
 ---
 
@@ -123,9 +122,8 @@ A functional SMB file‑sharing environment, including:
 - User permissions  
 - Connectivity and access testing  
 
-**Documentation:** [lab2_file_sharing.md](packet-tracer/lab2_file_sharing.md)  
-**Packet Tracer File:** `lab2_file_sharing.pkt`  
-**Screenshots:** `/packet-tracer/screenshots/`
+**Documentation:** [lab2_file_sharing.md](packet-tracer/lab2_file_sharing.md)    
+**Screenshots:** `/packet-tracer`
 
 ---
 
@@ -139,7 +137,7 @@ A collection of Packet Tracer topology images and lab outputs used throughout th
 These visuals help demonstrate the network design, configuration steps, and testing results.
 
 All screenshots are stored in:  
-➡️ `/packet-tracer/screenshots/`
+➡️ `/packet-tracer`
 
 ---
 
@@ -152,7 +150,7 @@ Includes:
 - Successful ping tests  
 - Simulation mode packet flow  
 
-📁 Folder: `/packet-tracer/screenshots/lab1/`
+📁 Folder: `/packet-tracer`
 
 ---
 
@@ -165,7 +163,7 @@ Includes:
 - PC access to shared directory  
 - Connectivity and authentication tests  
 
-📁 Folder: `/packet-tracer/screenshots/lab2/`
+📁 Folder: `/packet-tracer`
 
 ---
 
